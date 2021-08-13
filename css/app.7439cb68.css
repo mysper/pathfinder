@@ -1,0 +1,1 @@
+.block{border:1px solid #000;position:relative}.block span{position:absolute;display:block;text-align:center;font-size:.35em}.block span:first-child{top:0;left:0}.block span:nth-child(2){top:0;right:0}.block span:last-child{bottom:0;right:0;left:0;margin:auto;font-size:.4em;font-weight:700}
